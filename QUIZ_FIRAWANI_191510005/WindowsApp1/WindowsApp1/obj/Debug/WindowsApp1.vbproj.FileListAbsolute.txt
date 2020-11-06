@@ -1,0 +1,12 @@
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Firawani\Sems Ganjil (sems 3)\Pemograman Visual\QUIZ_FIRAWANI_191510005\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
